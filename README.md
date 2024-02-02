@@ -1,5 +1,5 @@
 ### Recipe Mood - Dataviz & API
- ### URL DU PROJET : https://aisseta.github.io/Recipe-Mood-Projet/
+ ### URL : https://aisseta.github.io/Recipe-Mood-Projet/
 Générateur de recettes adaptées aux humeurs des utilisateurs exprimées par des emojis.
 
  ## Objecif :
